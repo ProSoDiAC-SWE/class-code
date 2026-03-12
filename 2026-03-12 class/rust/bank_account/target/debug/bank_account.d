@@ -1,0 +1,1 @@
+/Users/fabiooraziomirto/Downloads/class_live/2026-03-12\ class/rust/bank_account/target/debug/bank_account: /Users/fabiooraziomirto/Downloads/class_live/2026-03-12\ class/rust/bank_account/src/main.rs
